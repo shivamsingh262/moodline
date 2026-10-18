@@ -1,0 +1,5 @@
+{
+  "session_id": "test-session",
+  "workspace": { "current_dir": "__DIR__" },
+  "model": { "display_name": "Sonnet 5.5" }
+}

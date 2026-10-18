@@ -1,0 +1,8 @@
+{
+  "session_id": "test-session",
+  "workspace": { "current_dir": "__DIR__" },
+  "model": { "display_name": "Opus 5.5" },
+  "context_window": { "used_percentage": 71 },
+  "cost": { "total_duration_ms": 900000, "total_cost_usd": 0.5 },
+  "prompt_cache": { "warm": false, "recache_tokens_if_cold": 182000 }
+}

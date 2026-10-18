@@ -1,0 +1,4 @@
+╭─ (・‿・)ﾉ ~/clean (main) · Opus 5.5 · effort:medium · ⚡fast
+├─ ctx ▰▰▰▱▱ 42% · 5h ▰▰▰▰▱ 63% → 16:30 · wk ▰▰▰▰▰ 85% → Wed
+│  ⏱ 1h32m · $3.46 · 🕐 14:30 · cache warm till 15:10 (84k)
+╰─ refactor auth flow

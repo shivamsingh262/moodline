@@ -1,5 +1,10 @@
 # moodline
 
+[![CI](https://github.com/shivamsingh262/moodline/actions/workflows/ci.yml/badge.svg)](https://github.com/shivamsingh262/moodline/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Platform: macOS | Linux](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey)
+[![Made for Claude Code](https://img.shields.io/badge/made%20for-Claude%20Code-D97757)](https://claude.com/claude-code)
+
 A status line for [Claude Code](https://claude.com/claude-code) with a small kaomoji avatar whose mood follows your repo, the time of day, and whether Claude is working.
 
 ```
